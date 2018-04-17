@@ -2,7 +2,7 @@
 ## Parts
 
 * Unlocked Huawei E3276s-500  
-   _Mine was supposed to come unlocked (but ebay... so it wasn't).  I chose the modem initally to use with a Meraki router but that served it's temporary purpose so I reused it for this project.  YMMV on something else, this just worked for me.  I paid $4.80 (€4.00 EUR) to a [sketchy unlock company](https://www.dc-unlocker.com/ "Sketchy Unlock"). I had to get 4 "credits" to get through the proccess.  This **did** actually work but I certainly ran the software from a throwaway machine since god knows why nasty stuff might have been in that program._
+   _Mine was supposed to come unlocked (but ebay... so it wasn't).  I chose the modem initally to use with a Meraki router but that served it's temporary purpose so I reused it for this project.  YMMV on something else, this just worked for me.  I paid $4.80 (€4.00 EUR) to a [sketchy unlock company](https://www.dc-unlocker.com/ "Sketchy Unlock"). I had to get 4 "credits" to get through the proccess.  This **did** actually work but I certainly ran the software from a throwaway machine since FSM knows what nasty stuff might have been in that program._
 
 * Freeddom pop SIM card   
    _I got a [data only sim](https://shop.freedompop.com/product/lte-sim-kit-3-in-1-data-only-bundle/ZMP-USIM-DOTRIDOKT01) and signed up for the "Basic GSM 200" which allows 200 MB/mo for free.  Protip: make sure you also cancel the "service" they will attach to your plan.  I think mine was the data rollover service which then got me for $3.99 for the first month._
