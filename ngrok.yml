@@ -1,0 +1,7 @@
+authtoken: THE-VALUE-OF-THE-TOKEN
+console_ui: false
+web_addr: false
+tunnels:
+  ssh-access:
+    addr: 22
+    proto: tcp
