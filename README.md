@@ -20,3 +20,8 @@
 
 ### Notes
 The E3276 modem is one of those tricky bastards that comes up as a drive in order to install it's cient software.  In Windows this is great since you're essentially able to it in to any machine, install, and go.  In Linux on the other hand it is a pain as you need to do a mode change to get things working.  For me this was accomplished using the command `usb_modeswitch -v 12d1 -p 14fe -M '55534243123456780000000000000011062000000101000100000000000000'`.  [Here]() is a link to someone else's blog post that has a lot more information on this piece.  I *did* slightly modify their commands as my product ID was different.  I was able to find the correct value by using `llusb`.
+
+### Sources
+As usual, most of the hard stuff was already figured out by someone else.  Here are the two links that I took most of my information from.   
+[https://forums.freedompop.com/us/discussion/8602/just-thought-i-would-share-complete-raspbian-setup-for-u301](FreedomPop Forum)
+[https://nicovddussen.wordpress.com/2014/11/12/setting-up-your-raspberry-pi-to-work-with-a-3g-dongle/](Nico van der Dussen)
