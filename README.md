@@ -20,7 +20,7 @@
 * usb-modeswitch   
 * ppp   
 
-This should get them all installed: `sudo apt-get isntall wvdial usb-modeswitch ppp`
+This should get them all installed: `sudo apt-get install wvdial usb-modeswitch ppp`
 
 ### Step-by-step
 No promised but I might do this with a blank SD card just to give some step-by-step instructions from scratch.
